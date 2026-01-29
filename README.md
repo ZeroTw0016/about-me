@@ -15,7 +15,6 @@
 AGE.....................: 18+<br>
 ROLE...................: IT Operative<br>
 IDENTITY............: Genderfluid (AMAB)<br>
-STATUS...............: Dating<br>
 ORIENTATION...: Bisexual<br>
 
 [ SYSTEM.LOG :: TECH.STACK ]
